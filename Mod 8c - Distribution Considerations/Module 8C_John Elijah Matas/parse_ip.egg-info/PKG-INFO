@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: parse-ip
+Version: 1.0
+Summary: Parses and returns the ip address.
+Author: John Matas
+Author-email: jmatas@rrc.ca
